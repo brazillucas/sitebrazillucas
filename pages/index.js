@@ -6,6 +6,7 @@ function Home() {
             <h1>Início</h1>
             <h2>Tela de contagem</h2>
             <Contador />
+            <img src='https://www.petz.com.br/blog/wp-content/uploads/2017/04/comportamento-dos-gatos-1.jpg'></img>
         </div>
     )
 }
